@@ -2,17 +2,17 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://dmytroleskivUA.github.io/dmytroleskiv-my-Parcel-template",
+  "homepage": "https://dmytroleskivUA.github.io/dmytroleskiv-dmytroleskiv-goit-js-hw-11",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /my-Parcel-template/"
+    "build": "parcel build src/*.html --public-url /dmytroleskiv-goit-js-hw-11/"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
-  "author": "A Repeta <alexander.repeta@gmail.com>",
+  "author": "Alex Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
